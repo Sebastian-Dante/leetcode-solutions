@@ -28,4 +28,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/0684-redundant-connection) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/0684-redundant-connection) |
+## Union Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/0684-redundant-connection) |
+## Graph
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
