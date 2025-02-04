@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0952-word-subsets](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
