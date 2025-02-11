@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0952-word-subsets](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
