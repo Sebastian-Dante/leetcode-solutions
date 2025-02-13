@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/0169-majority-element) |
 | [0952-word-subsets](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1524-string-matching-in-an-array](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/0169-majority-element) |
 | [0952-word-subsets](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -98,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/0169-majority-element) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/0169-majority-element) |
 | [1364-tuple-with-same-product](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -129,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
