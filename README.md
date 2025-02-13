@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1524-string-matching-in-an-array](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
+| [1603-running-sum-of-1d-array](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
