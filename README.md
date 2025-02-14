@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/0169-majority-element) |
 | [0952-word-subsets](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 ## Divide and Conquer
 |  |
@@ -141,5 +144,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Sebastian-Dante/leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
